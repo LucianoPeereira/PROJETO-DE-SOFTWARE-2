@@ -16,6 +16,7 @@ public class Aplicacao {
 		lista.inserir(ponto, 1);
 		
 		//teste
+		//teste
 		
 		for(int i = 10; i < 25; i++) {
 			ponto = new Ponto2D(i, i+55);
