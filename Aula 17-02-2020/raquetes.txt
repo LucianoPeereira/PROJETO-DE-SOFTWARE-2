@@ -1,0 +1,1 @@
+Raquete [peso=12.1, cor=rosa, comprimento=12]
