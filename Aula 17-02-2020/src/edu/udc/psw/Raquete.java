@@ -1,6 +1,8 @@
 package edu.udc.psw;
 
-public class Raquete {
+import java.io.Serializable;
+
+public class Raquete implements Serializable{
 	
 	float peso ;
 	String cor;
